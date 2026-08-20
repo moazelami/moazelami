@@ -1,24 +1,12 @@
 <h1 align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=38&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Hey+There+👋;I'm+Moaz+Elami;Software+Engineer+🚀;Full-Stack+Developer+💻;Problem+Solver+🔥;Always+Learning+📚" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=38&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Hey+There+👋;I'm+Moaz+Elami;Software+Engineer;Backend+Developer+%7C+Node.js;Always+Learning"
     alt="Typing SVG" 
   />
 </h1>
 
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=moazelami&label=Profile%20Views&color=0e75b6&style=flat" />
-
-<br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-</div>
-
----
-
 <h3 align="center">
-💻 Software Engineer • 🌐 Full-Stack Developer • 🚀 Problem Solver
+Software Engineer • Backend Developer • Node.js
 </h3>
 
 ---
@@ -27,12 +15,9 @@
 
 <div align="center">
 
-🎓 2nd Year Computer Science Student  
-💡 Passionate about building real-world projects  
-🚀 Currently learning Full-Stack Development  
-🧠 Strong interest in Data Structures & Algorithms  
-🔥 Sharing my coding journey publicly  
-⚡ Always exploring new technologies  
+I'm a Computer Science student and Software Engineer interested in building reliable, scalable, and maintainable software systems.
+
+My current specialization is **Backend Development with Node.js**, while continuously expanding my knowledge across software engineering, databases, system design, and problem solving.
 
 </div>
 
@@ -44,13 +29,25 @@
 
 ### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=cpp,js,python,java,dart,html,css" />
+<img src="https://skillicons.dev/icons?i=cpp,js,python,java,html,css" />
 
 <br/><br/>
 
-### 🚀 Frameworks & Tools
+### 🚀 Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,git,github,vscode,visualstudio,linux" />
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+<br/><br/>
+
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb" />
+
+<br/><br/>
+
+### 🛠️ Tools & Technologies
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,linux,vscode,webstorm,visualstudio" />
 
 </div>
 
@@ -78,49 +75,11 @@
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=moazelami&theme=tokyonight&no-frame=true&row=1&column=6" />
-
-</div>
-
----
-
 # 📈 Contribution Graph
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=moazelami&theme=tokyo-night&hide_border=true" />
-
-</div>
-
----
-
-# 🧠 Currently Learning
-
-<div align="center">
-
-📚 Data Structures & Algorithms  
-🌐 Backend Development with Node.js  
-⚡ Modern JavaScript & Web Technologies  
-📱 Flutter & Dart  
-🐧 Linux & Git Workflows  
-
-</div>
-
----
-
-# 🚀 Goals for 2026
-
-<div align="center">
-
-✅ Build impactful real-world projects  
-✅ Master Full-Stack Development  
-✅ Become stronger in Problem Solving  
-✅ Contribute to Open Source  
-✅ Land a Software Engineering Internship  
 
 </div>
 
