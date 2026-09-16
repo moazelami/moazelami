@@ -29,7 +29,7 @@ My current specialization is **Backend Development with Node.js**, while continu
 
 ### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=cpp,js,python,java,html,css" />
+<img src="https://skillicons.dev/icons?i=cpp,js,java" />
 
 <br/><br/>
 
@@ -41,7 +41,7 @@ My current specialization is **Backend Development with Node.js**, while continu
 
 ### 🗄️ Databases
 
-<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb" />
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,prisma,mongoose" />
 
 <br/><br/>
 
