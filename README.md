@@ -75,16 +75,6 @@ My current specialization is **Backend Development with Node.js**, while continu
 
 ---
 
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=moazelami&theme=tokyo-night&hide_border=true" />
-
-</div>
-
----
-
 # 🌐 Connect With Me
 
 <div align="center">
